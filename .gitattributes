@@ -1,1 +1,12 @@
 *.geojson filter=lfs diff=lfs merge=lfs -text
+ca_martinez.geojson filter=lfs diff=lfs merge=lfs -text
+neighbour_object.json filter=lfs diff=lfs merge=lfs -text
+pedestrian_related.ipynb filter=lfs diff=lfs merge=lfs -text
+preprocessing.py filter=lfs diff=lfs merge=lfs -text
+result.json filter=lfs diff=lfs merge=lfs -text
+safety_evaluation.py filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+convert_xy_to_gis.py filter=lfs diff=lfs merge=lfs -text
+ego_vehicle.json filter=lfs diff=lfs merge=lfs -text
+get_data.py filter=lfs diff=lfs merge=lfs -text
+ttc_process.py filter=lfs diff=lfs merge=lfs -text
