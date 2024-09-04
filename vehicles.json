@@ -1,0 +1,450 @@
+[
+    {
+        "Config": {
+            "Chid": 19200,
+            "ParentChid": 0,
+            "InstanceId": "301b8f88-5091-46d8-ae6d-6f9358ac1821",
+            "Name": "mallory",
+            "IpAddress": null,
+            "Description": null,
+            "DeviceType": "CaVehicleDevMayMobility",
+            "DeviceClass": null,
+            "Tags": [
+                {
+                    "Name": "Width[mm]",
+                    "Value": "2345"
+                },
+                {
+                    "Name": "Length[mm]",
+                    "Value": "5272"
+                },
+                {
+                    "Name": "ProjectID",
+                    "Value": "2"
+                },
+                {
+                    "Name": "TypicalResponseTime[ms]",
+                    "Value": "200"
+                },
+                {
+                    "Name": "FailSafeCycle[ms]",
+                    "Value": "100"
+                }
+            ]
+        },
+        "MapLocation": null,
+        "RoadLocations": [],
+        "Signals": [
+            {
+                "Name": "MotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "GuiMotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DetectedNeighbourVehicles",
+                "Description": null,
+                "Type": "class:MotionDetectionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DevStatus",
+                "Description": null,
+                "Type": "class:DeviceStatus",
+                "Mapping": null
+            }
+        ],
+        "Functions": null,
+        "Collections": null
+    },
+    {
+        "Config": {
+            "Chid": 19201,
+            "ParentChid": 0,
+            "InstanceId": "7a0646b0-af91-4ca0-9b1c-164ed4759d0c",
+            "Name": "megalodon",
+            "IpAddress": null,
+            "Description": null,
+            "DeviceType": "CaVehicleDevMayMobility",
+            "DeviceClass": null,
+            "Tags": [
+                {
+                    "Name": "Width[mm]",
+                    "Value": "2345"
+                },
+                {
+                    "Name": "Length[mm]",
+                    "Value": "5277"
+                },
+                {
+                    "Name": "ProjectID",
+                    "Value": "2"
+                },
+                {
+                    "Name": "TypicalResponseTime[ms]",
+                    "Value": "200"
+                },
+                {
+                    "Name": "FailSafeCycle[ms]",
+                    "Value": "100"
+                }
+            ]
+        },
+        "MapLocation": null,
+        "RoadLocations": [],
+        "Signals": [
+            {
+                "Name": "MotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "GuiMotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DetectedNeighbourVehicles",
+                "Description": null,
+                "Type": "class:MotionDetectionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DevStatus",
+                "Description": null,
+                "Type": "class:DeviceStatus",
+                "Mapping": null
+            }
+        ],
+        "Functions": null,
+        "Collections": null
+    },
+    {
+        "Config": {
+            "Chid": 19202,
+            "ParentChid": 0,
+            "InstanceId": "340013a2-f6b4-422a-8b13-42696025b1e0",
+            "Name": "morizo",
+            "IpAddress": null,
+            "Description": null,
+            "DeviceType": "CaVehicleDevMayMobility",
+            "DeviceClass": null,
+            "Tags": [
+                {
+                    "Name": "Width[mm]",
+                    "Value": "2345"
+                },
+                {
+                    "Name": "Length[mm]",
+                    "Value": "5272"
+                },
+                {
+                    "Name": "ProjectID",
+                    "Value": "2"
+                },
+                {
+                    "Name": "TypicalResponseTime[ms]",
+                    "Value": "200"
+                },
+                {
+                    "Name": "FailSafeCycle[ms]",
+                    "Value": "100"
+                }
+            ]
+        },
+        "MapLocation": null,
+        "RoadLocations": [],
+        "Signals": [
+            {
+                "Name": "MotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "GuiMotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DetectedNeighbourVehicles",
+                "Description": null,
+                "Type": "class:MotionDetectionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DevStatus",
+                "Description": null,
+                "Type": "class:DeviceStatus",
+                "Mapping": null
+            }
+        ],
+        "Functions": null,
+        "Collections": null
+    },
+    {
+        "Config": {
+            "Chid": 19203,
+            "ParentChid": 0,
+            "InstanceId": "b5c89118-9a98-4c2f-9596-80ae0b96d4a9",
+            "Name": "mav",
+            "IpAddress": null,
+            "Description": null,
+            "DeviceType": "CaVehicleDevMayMobility",
+            "DeviceClass": null,
+            "Tags": [
+                {
+                    "Name": "Width[mm]",
+                    "Value": "2345"
+                },
+                {
+                    "Name": "Length[mm]",
+                    "Value": "5277"
+                },
+                {
+                    "Name": "ProjectID",
+                    "Value": "2"
+                },
+                {
+                    "Name": "TypicalResponseTime[ms]",
+                    "Value": "200"
+                },
+                {
+                    "Name": "FailSafeCycle[ms]",
+                    "Value": "100"
+                }
+            ]
+        },
+        "MapLocation": null,
+        "RoadLocations": [],
+        "Signals": [
+            {
+                "Name": "MotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "GuiMotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DetectedNeighbourVehicles",
+                "Description": null,
+                "Type": "class:MotionDetectionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DevStatus",
+                "Description": null,
+                "Type": "class:DeviceStatus",
+                "Mapping": null
+            }
+        ],
+        "Functions": null,
+        "Collections": null
+    },
+    {
+        "Config": {
+            "Chid": 19204,
+            "ParentChid": 0,
+            "InstanceId": "69668292-13a5-47a7-8699-48589f9877f3",
+            "Name": "Metatron",
+            "IpAddress": null,
+            "Description": null,
+            "DeviceType": "CaVehicleDevMayMobility",
+            "DeviceClass": null,
+            "Tags": [
+                {
+                    "Name": "Width[mm]",
+                    "Value": "2345"
+                },
+                {
+                    "Name": "Length[mm]",
+                    "Value": "5277"
+                },
+                {
+                    "Name": "ProjectID",
+                    "Value": "2"
+                },
+                {
+                    "Name": "TypicalResponseTime[ms]",
+                    "Value": "200"
+                },
+                {
+                    "Name": "FailSafeCycle[ms]",
+                    "Value": "100"
+                }
+            ]
+        },
+        "MapLocation": null,
+        "RoadLocations": [],
+        "Signals": [
+            {
+                "Name": "MotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "GuiMotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DetectedNeighbourVehicles",
+                "Description": null,
+                "Type": "class:MotionDetectionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DevStatus",
+                "Description": null,
+                "Type": "class:DeviceStatus",
+                "Mapping": null
+            }
+        ],
+        "Functions": null,
+        "Collections": null
+    },
+    {
+        "Config": {
+            "Chid": 19205,
+            "ParentChid": 0,
+            "InstanceId": "124778b8-e9b0-48c9-aecf-819adac2d445",
+            "Name": "maryMae",
+            "IpAddress": null,
+            "Description": null,
+            "DeviceType": "CaVehicleDevMayMobility",
+            "DeviceClass": null,
+            "Tags": [
+                {
+                    "Name": "Width[mm]",
+                    "Value": "2345"
+                },
+                {
+                    "Name": "Length[mm]",
+                    "Value": "5277"
+                },
+                {
+                    "Name": "ProjectID",
+                    "Value": "2"
+                },
+                {
+                    "Name": "TypicalResponseTime[ms]",
+                    "Value": "200"
+                },
+                {
+                    "Name": "FailSafeCycle[ms]",
+                    "Value": "100"
+                }
+            ]
+        },
+        "MapLocation": null,
+        "RoadLocations": [],
+        "Signals": [
+            {
+                "Name": "MotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "GuiMotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DetectedNeighbourVehicles",
+                "Description": null,
+                "Type": "class:MotionDetectionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DevStatus",
+                "Description": null,
+                "Type": "class:DeviceStatus",
+                "Mapping": null
+            }
+        ],
+        "Functions": null,
+        "Collections": null
+    },
+    {
+        "Config": {
+            "Chid": 19206,
+            "ParentChid": 0,
+            "InstanceId": "59e0c327-af2c-4269-a551-ef66cda496ab",
+            "Name": "mastermind",
+            "IpAddress": null,
+            "Description": null,
+            "DeviceType": "CaVehicleDevMayMobility",
+            "DeviceClass": null,
+            "Tags": [
+                {
+                    "Name": "Width[mm]",
+                    "Value": "2345"
+                },
+                {
+                    "Name": "Length[mm]",
+                    "Value": "5272"
+                },
+                {
+                    "Name": "ProjectID",
+                    "Value": "2"
+                },
+                {
+                    "Name": "TypicalResponseTime[ms]",
+                    "Value": "200"
+                },
+                {
+                    "Name": "FailSafeCycle[ms]",
+                    "Value": "100"
+                }
+            ]
+        },
+        "MapLocation": null,
+        "RoadLocations": [],
+        "Signals": [
+            {
+                "Name": "MotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "GuiMotionSignal",
+                "Description": null,
+                "Type": "class:MotionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DetectedNeighbourVehicles",
+                "Description": null,
+                "Type": "class:MotionDetectionData",
+                "Mapping": null
+            },
+            {
+                "Name": "DevStatus",
+                "Description": null,
+                "Type": "class:DeviceStatus",
+                "Mapping": null
+            }
+        ],
+        "Functions": null,
+        "Collections": null
+    }
+]
