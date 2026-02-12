@@ -3,14 +3,14 @@
 # Pinned to versions found in the project's virtual environment.
 # Note: installing `geopandas` may require system libraries (GDAL/Fiona/PROJ) and additional Python packages.
 requests==2.32.5
-numpy==2.4.2
-matplotlib==3.10.8
-geopandas==1.1.2
-shapely==2.1.2
+numpy==1.26.4
+matplotlib==3.8.4
+geopandas==0.14.4
+shapely==2.0.3
 geojson==3.2.0
-pandas==3.0.0
-pyproj==3.7.2
-pyogrio==0.12.1
+pandas==2.2.2
+pyproj==3.6.1
+pyogrio==0.11.1
 
 # Optional / commonly needed extras for geospatial stack (not installed in this venv):
 # fiona
