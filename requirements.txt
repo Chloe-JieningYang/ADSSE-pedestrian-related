@@ -1,0 +1,17 @@
+# requirements.txt
+# Auto-generated list of third-party Python packages detected from project imports.
+# Pinned to versions found in the project's virtual environment.
+# Note: installing `geopandas` may require system libraries (GDAL/Fiona/PROJ) and additional Python packages.
+requests==2.32.5
+numpy==2.4.2
+matplotlib==3.10.8
+geopandas==1.1.2
+shapely==2.1.2
+geojson==3.2.0
+pandas==3.0.0
+pyproj==3.7.2
+pyogrio==0.12.1
+
+# Optional / commonly needed extras for geospatial stack (not installed in this venv):
+# fiona
+# rtree
